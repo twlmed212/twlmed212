@@ -2,7 +2,7 @@
 
 # 👨‍💻 Mohamed Tawil
 
-### Full Stack Developer | 10 Years of Coding | Lifelong Learner
+### Full Stack Developer | Born To Code | Lifelong Learner
 
 [![1337](https://img.shields.io/badge/1337-Rabat-000000?style=for-the-badge&logo=42&logoColor=white)](https://1337.ma)
 [![Zone01](https://img.shields.io/badge/Zone01-Oujda-4A90E2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAkSURBVHgB7cxBDQAgAMPAgQ4c4F8KDvAAdqAD9jXp0qR7kwHfGh4Dw/RwzwAAAABJRU5ErkJggg==)](https://zone01.ma)
@@ -19,7 +19,7 @@ const mohamed = {
     age: 29,
     location: "Morocco 🇲🇦",
     journey: {
-        selfTaught: "10 years of hands-on experience",
+        selfTaught: "2 years of hands-on experience",
         formalEducation: "2 years at elite coding schools",
         currentPath: ["1337 Rabat (42 Network)", "Zone01 Oujda (01 Talent)"]
     },
@@ -99,7 +99,7 @@ From **self-taught enthusiast** to **professional developer** — my journey spa
 ## 🌟 What I Bring to the Table
 
 ```
-✓ 10 years of real-world development experience
+✓ 2 years of real-world development experience
 ✓ Full-stack expertise across modern tech stacks
 ✓ Strong problem-solving mindset (thanks to 1337 & Zone01!)
 ✓ Proven track record in freelance projects
